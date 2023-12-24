@@ -33,5 +33,3 @@ Just click here: https://t.me/JIITxbot and type in /start to start the bot.
 - [@Lakshya Kandpal](https://github.com/HiLakshya)
 - [@Nilesh Verma](https://github.com/NileshVerma001)
 - [@Parth Khare](https://github.com/Parth1706)
-
-Note:This is not an open-source project.
