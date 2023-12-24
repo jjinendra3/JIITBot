@@ -2,6 +2,8 @@
 
 JIIT Bot is a Telegram Bot built to help students stay up-to-date with their college's timetable. It works 24*7 and can be used to never miss an important lecture or class.
 
+Demo on Youtube : https://youtube.com/shorts/t96lJIIvRZQ
+
 
 ## 💽 Getting Started
 
